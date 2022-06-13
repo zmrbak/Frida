@@ -14,3 +14,9 @@ Frida使用极其方便，在使用过程中，只需将你编写的JavaScript�
 尤其是可以一边编辑JavaScript脚本，一边运行JavaScript脚本的功能对于调试分析来说极为友好。只需“保存”正在编辑的JavaScript脚本，就立即就能看到该脚本执行的结果，全称无需其它人工介入，也无需重新启动被“研究”的应用程序，极大地简化了分析流程，同时也极大地提高了工作效率。因此，得到了众多安全分析人士的青睐。
 
 本课程从最基本的调试环境搭建开始，基于经典的Windows“扫雷”游戏的动态调试分析，编码等，循序渐进演示Firda在分析调试Windows应用程序中基本使用方法和技巧。拥有这些知识储备之后，在加上官方的参考文档，你就可以轻松地将这些知识“迁移”至分析和调试其他平台的应用程序。
+
+# 交流QQ群
+
+会员交流群：456197310 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=0cdef8b48adc38e17306353fe37c08fe2c8b22fcb8cbdc18c17c7e84fc18194b"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="PC微信HOOK逆向分析" title="PC微信HOOK逆向分析"></a>
+
+学员交流群：741218412  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=5433929b47701089a76001e8e656b86a970faadc7c1aaba4f583eb321d550813"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="PC微信探秘/软件逆向分" title="PC微信探秘/软件逆向分"></a>
